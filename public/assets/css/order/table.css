@@ -1,0 +1,18 @@
+.card .row .col-sm-9.food-list{
+    height: 150px;
+    overflow-y: auto;
+}
+
+.table td, .table th{
+    padding: .3rem;
+}
+
+.btn-group-sm>.btn, .btn-sm{
+    padding: .15rem .3rem;
+    font-size: .7rem;
+}
+
+.modal-header{
+    background-color: #007bff;
+    color: white;
+}
