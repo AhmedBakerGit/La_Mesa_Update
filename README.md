@@ -49,6 +49,4 @@ Simple restaurant management system created by Laravel.
     https://github.com/pyon123/LaMesa-Ahmed/blob/master/config/roles.php
 
 
-Yanze S.
-
 
